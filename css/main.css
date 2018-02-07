@@ -1,0 +1,56 @@
+#wrapper {
+	background-color: red;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+#bio {
+    height: 100%;
+    width: 80%;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+#main-container {
+	background-color: red;
+	overflow: hidden;
+    position: relative;
+    width: 100%;
+    margin-top: 0;
+
+}
+
+#myPhoto {
+	background:red; 
+	float: left;
+	width: 200px;
+	height: 230px;
+	margin: 1em;
+}
+
+#portrait {
+	height: 80%;
+	width: auto;
+}
+
+#brand-icon {
+	height: 100%;
+	width: auto;
+}
+
+#connect {
+	justify-content: center;
+}
+
+
+.container {
+	border: 1px solid red;
+}
+
+#footer {
+	background-color: red;
+	text-align: center;
+}
