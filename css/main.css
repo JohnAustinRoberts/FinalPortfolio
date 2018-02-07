@@ -45,6 +45,9 @@
 	justify-content: center;
 }
 
+.sectionTitle {
+	text-decoration: underline;
+}
 
 .container {
 	border: 1px solid red;
